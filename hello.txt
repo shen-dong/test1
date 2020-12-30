@@ -1,7 +1,4 @@
 this is change by master
 this is change by master too
-<<<<<<< HEAD
 this other person change the file
-=======
 this other person change the file
->>>>>>> f873ec88d49a6f2d644af9300c1ffb1894ca295e
